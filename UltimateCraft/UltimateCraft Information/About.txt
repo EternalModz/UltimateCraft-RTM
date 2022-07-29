@@ -1,0 +1,33 @@
+[Known bugs]
+Aimbot: 
+- Sometimes aims at dead entities
+- Aims lower or higher depending on target (can be adjusted with 'Aim Position')
+
+SPRX Menu:
+- PS3 freezes when exiting game
+
+Infinite Breath:
+- Creates technical issues for mobs
+
+[Tool Notes]
+- ucConnect.dll needs to be in the same directory as the UltimateCraft tool for it to work properly
+
+- CCAPI / PS3MAPI(HEN): Slow connection
+
+- When using PS3MAPI(HEN), some options will be unavailable due to connection issues
+
+- For Menu: When Aim Command is set to 'Players Only'
+  Hitting target first it required to lock-on
+  To reset target lock-on, can be done via 'Aim Reset Key'
+
+- In Settings Tab, 'Reset Options' is currently unavailable
+
+- Target Manager processes maybe open after application is closed
+
+- UltimateCraft tool will close automatically if some applications are open
+
+
+
+[SPRX Menu Notes]
+- Debug Eboot is needed for the SPRX Menu
+- To use menu, you must enable the option inside the UltimateCraft tool

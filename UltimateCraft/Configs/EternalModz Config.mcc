@@ -1,0 +1,489 @@
+300<s>Hit span;comboBox;0
+301<s>Action reach;comboBox;0
+302<s>Action speed;comboBox;0
+303<s>Source kill;trackBar;0
+304<s>Damage color;trackBar;0
+400<s>Reach attack;checkBox;1
+401<s>Unfair attack;checkBox;0
+402<s>Critical hit v1;checkBox;0
+403<s>Critical hit v2;checkBox;0
+404<s>Instant hit;checkBox;0
+405<s>Kill aura;checkBox;0
+406<s>Auto hit;checkBox;0
+407<s>Auto kill mobs spawned;checkBox;0
+408<s>Auto kill players;checkBox;0
+409<s>Damage hit red blue;checkBox;0
+410<s>Hitbox beta;checkBox;0
+411<s>Knockback v1;checkBox;0
+412<s>No knockback;checkBox;1
+413<s>Press x for hit;checkBox;0
+414<s>Detect if players been damaged;checkBox;0
+415<s>Kill disappear entity;checkBox;0
+416<s>Starved all players in battle world;checkBox;0
+417<s>Suicide;checkBox;0
+600<s>X ray;trackBar;0
+601<s>Body light;trackBar;0
+602<s>Time of day;trackBar;0
+603<s>Entitiy gravity;trackBar;0
+604<s>Entitiy speed;trackBar;0
+605<s>Exit water;trackBar;0
+606<s>Vertical swim;trackBar;0
+607<s>Swim speed;trackBar;0
+700<s>Ufo mode;checkBox;0
+701<s>Glide;checkBox;0
+702<s>Swim mode;checkBox;0
+703<s>Sky mode;checkBox;0
+704<s>Can fly;checkBox;1
+705<s>Fast fly;checkBox;0
+706<s>Float up;checkBox;0
+707<s>Fly mode x;checkBox;0
+708<s>Fly or run on crouch;checkBox;0
+709<s>Levitation;checkBox;0
+710<s>Old fly options;checkBox;0
+711<s>Ufo mode;checkBox;0
+712<s>Multi jump;checkBox;0
+713<s>Multi jump v2;checkBox;0
+800<s>Invisible blocks;checkBox;0
+801<s>Transparent level;checkBox;0
+802<s>Can see under world;checkBox;0
+803<s>No colission;checkBox;0
+804<s>No colission bypass;checkBox;0
+805<s>No colission entity;checkBox;0
+806<s>See outside map;checkBox;0
+807<s>Wall hack v1;checkBox;0
+808<s>Wall hack v2;checkBox;0
+809<s>Wall hack v3;checkBox;0
+810<s>X ray;checkBox;0
+811<s>Under water view;checkBox;0
+812<s>Nether vision;checkBox;0
+813<s>Night vision;checkBox;0
+814<s>Near by sounds;checkBox;0
+900<s>Eps chest v3;checkBox;0
+901<s>Esp chests v1;checkBox;0
+902<s>Esp chests v2;checkBox;0
+903<s>Esp entity blue;checkBox;0
+904<s>Esp entity red;checkBox;0
+905<s>Esp players;checkBox;0
+1000<s>Frost walker;checkBox;1
+1001<s>Super speed;checkBox;0
+1002<s>Super speed legit;checkBox;1
+1003<s>Super speed v3;checkBox;0
+1004<s>Super speed v4;checkBox;0
+1005<s>Super speed v5;checkBox;0
+1006<s>Super speed v6;checkBox;0
+1007<s>Super speed v7;checkBox;0
+1008<s>Toggle sprint;checkBox;0
+1009<s>Toggle sprint v2;checkBox;0
+1010<s>New super speed;checkBox;0
+1100<s>Space jump;checkBox;0
+1101<s>Super jump;checkBox;0
+1102<s>Super jump v2;checkBox;0
+1103<s>No slow down;checkBox;0
+1104<s>Auto jump;checkBox;0
+1105<s>Auto ladder;checkBox;0
+1106<s>Normalize crouch;checkBox;0
+1300<s>Contrast;trackBar;0
+1301<s>Player dimension;comboBox;0
+1400<s>Instant mine;checkBox;1
+1401<s>Mine in adventure;checkBox;1
+1402<s>Water slow down;checkBox;0
+1500<s>Fast build;checkBox;0
+1501<s>Place blocks in battle worlds;checkBox;1
+1502<s>Instant place survival;checkBox;0
+1503<s>Auto build in survival;checkBox;0
+1600<s>Auto toss items;checkBox;0
+1601<s>Auto crouch;checkBox;0
+1602<s>Auto view;checkBox;0
+1603<s>Auto crouch on movement;checkBox;0
+1604<s>Auto mine;checkBox;0
+1605<s>Auto build;checkBox;0
+1700<s>Arms hit speed;checkBox;0
+1701<s>Arms and legs weird;checkBox;0
+1702<s>Funny arms legs;checkBox;0
+1703<s>Hide arms;checkBox;0
+1704<s>Arms broken v2;checkBox;0
+1800<s>Remove swim;checkBox;0
+1801<s>Anim swim fly;checkBox;0
+1802<s>Disable swim;checkBox;0
+1803<s>Swim glitch;checkBox;0
+1900<s>Static movement;checkBox;0
+1901<s>Fast move legs arms;checkBox;0
+1902<s>Movement swim;checkBox;0
+1903<s>Disable fly creative;checkBox;0
+1904<s>Velocity big;checkBox;0
+1905<s>Velocity small;checkBox;0
+1906<s>Stop show logs notifs;checkBox;0
+2000<s>Walk alone;checkBox;0
+2001<s>Walk in sky;checkBox;0
+2002<s>Stop walk animations;checkBox;0
+2003<s>Remove animation run;checkBox;0
+2004<s>Foot step fast;checkBox;0
+2005<s>Foot step slow;checkBox;0
+2006<s>Vibrate walk;checkBox;0
+2007<s>Disable run;checkBox;0
+2008<s>Animation running;checkBox;0
+2100<s>Instant jump in sky;checkBox;0
+2101<s>Real jump animation;checkBox;0
+2102<s>Jump forward;checkBox;0
+2103<s>Jump for build;checkBox;0
+2104<s>Jump in lava;checkBox;0
+2105<s>Jump speed;checkBox;0
+2106<s>Legs in air;checkBox;0
+2107<s>Remove jump;checkBox;0
+2300<s>Sliding;checkBox;0
+2301<s>Upside down entities;checkBox;0
+2302<s>Entity invisible;checkBox;0
+2303<s>Entity render;checkBox;0
+2304<s>Entity skins red;checkBox;0
+2305<s>Entity to baby;checkBox;0
+2306<s>Elytra on all entity;checkBox;0
+2307<s>Upside down entities;checkBox;0
+2308<s>Fire animation;checkBox;0
+2309<s>Swim animation;checkBox;0
+2400<s>Imitate host;checkBox;0
+2401<s>Remove pointer aim;checkBox;0
+2402<s>Iron helmet everyone;checkBox;0
+2403<s>Fire instant removed;checkBox;0
+2404<s>Name and shadow black;checkBox;0
+2405<s>Name over head;checkBox;1
+2406<s>Name over head double;checkBox;0
+2407<s>Name over head go up down;checkBox;0
+2500<s>Make creeper big;checkBox;0
+2501<s>Fire creeper explode;checkBox;0
+2502<s>No teleport for enderman and chorus fruit;checkBox;0
+2600<s>Rotation body;checkBox;0
+2601<s>Rotation head 360 degres;checkBox;0
+2602<s>Remove animation detailed skins;checkBox;0
+2603<s>Remove hands;checkBox;0
+2604<s>Players big models;checkBox;0
+2605<s>Players body light;checkBox;0
+2606<s>Players lists;checkBox;0
+2607<s>Players on elytra;checkBox;0
+2608<s>Players paper models;checkBox;0
+2609<s>Players skate mode;checkBox;0
+2610<s>Players slide;checkBox;0
+2611<s>Move head but not body;checkBox;0
+2612<s>Big animation character;checkBox;0
+2613<s>Animation character;checkBox;0
+2700<s>Anti afk;checkBox;0
+2701<s>Anti afk v2;checkBox;0
+2702<s>Anti afk v3;checkBox;0
+2703<s>Anti kick premium;checkBox;0
+2704<s>Anti teleport by host;checkBox;0
+2800<s>Can see real skins in spectator;checkBox;0
+2801<s>Debug skins texture;checkBox;0
+2802<s>Shadow skins players;checkBox;0
+2803<s>Shadow skins v2;checkBox;0
+2804<s>Roblox animation;checkBox;0
+2900<s>Rayman mode;checkBox;0
+2901<s>Labymod settings;checkBox;0
+2902<s>Show armor;checkBox;0
+2903<s>Players position;checkBox;0
+2904<s>Disable players;checkBox;0
+2905<s>Ghost players;checkBox;0
+2906<s>Enable aim on 3th preson;checkBox;0
+3100<s>Cloud colors;trackBar;0
+3101<s>Sun moon size;trackBar;0
+3102<s>Weather state;trackBar;0
+3200<s>Weather rain;checkBox;0
+3201<s>Weather snow;checkBox;0
+3202<s>Small rain;checkBox;0
+3203<s>Weather to rain anytime;checkBox;0
+3204<s>Disable changing weather;checkBox;0
+3205<s>Days night;checkBox;0
+3206<s>Disable fog;checkBox;0
+3207<s>Fog;checkBox;0
+3208<s>Black horizon;checkBox;0
+3209<s>Bright stars;checkBox;0
+3210<s>Remove stars in sky;checkBox;0
+3211<s>Flash stars in sky;checkBox;0
+3212<s>Hide clouds;checkBox;0
+3213<s>Dusk;checkBox;0
+3301<s>Texture black;checkBox;0
+3302<s>Texture plastic;checkBox;0
+3303<s>Rainbow light;checkBox;0
+3304<s>Rainbow storm;checkBox;0
+3305<s>Smoke lobby;checkBox;0
+3306<s>Sky to nether;checkBox;0
+3307<s>Sky to rainbow with snow;checkBox;0
+3308<s>Fog black;checkBox;0
+3309<s>Fog blue;checkBox;0
+3310<s>Light eyes enderman;checkBox;0
+3311<s>Light make more power;checkBox;0
+3312<s>Horror view;checkBox;0
+3400<s>Sky color;comboBox;0
+3401<s>Light color;comboBox;0
+3402<s>Block crack color;comboBox;0
+3404<s>Hud color;comboBox;0
+3405<s>Hud color;button;0
+3501<s>Camera rotation;checkBox;0
+3502<s>Zoom without hand;checkBox;0
+3503<s>Fov without hand;checkBox;0
+3504<s>Shake camera;checkBox;0
+3505<s>Camera left position;checkBox;0
+3506<s>Camera right position;checkBox;0
+3507<s>Cam down;checkBox;0
+3508<s>Cam down r3;checkBox;0
+3509<s>Free cam;checkBox;0
+3510<s>Positions place;checkBox;0
+3511<s>Position view;checkBox;0
+3512<s>Look forback;checkBox;0
+3600<s>Field of view;trackBar;0
+3601<s>Camera zoom;trackBar;0
+3602<s>Hand position;trackBar;0
+3700<s>Size hud;checkBox;0
+3701<s>Positions hud;checkBox;0
+3702<s>Disalbe hud text;checkBox;0
+3703<s>Small text;checkBox;0
+3704<s>Remove all text;checkBox;0
+3705<s>Text to alien;checkBox;0
+3706<s>Remove hurt cam;checkBox;0
+3707<s>Remove inventory hud;checkBox;0
+3708<s>Hide hot bar;checkBox;0
+3709<s>Screen dead;checkBox;0
+3710<s>Semi blackscreen;checkBox;0
+3711<s>Hud hide everything;checkBox;0
+3712<s>Hud inventory down on screen;checkBox;0
+3713<s>Hud mini game;checkBox;0
+3714<s>Hud show players around you;checkBox;0
+3715<s>Draw mode;checkBox;0
+3716<s>Bunifuimage1;checkBox;0
+3717<s>Bunifuimage2;checkBox;0
+3900<s>Selected blocks;trackBar;0
+3901<s>Items in hand;trackBar;0
+3902<s>Items size;trackBar;0
+3903<s>Items 2th hand;trackBar;0
+4000<s>Ids items;checkBox;1
+4001<s>Creative inventory in lobby;checkBox;1
+4002<s>Enable special block;checkBox;0
+4003<s>Enable take everything in chests;checkBox;1
+4004<s>Get 64 items blocks;checkBox;0
+4005<s>Get crafting in battle world;checkBox;1
+4006<s>Infinite block;checkBox;1
+4007<s>Infinite craft;checkBox;1
+4100<s>Black boxes;checkBox;0
+4101<s>No boxes;checkBox;0
+4102<s>Stuck in blocks;checkBox;0
+4103<s>Scaffold beta;checkBox;0
+4104<s>Blocks hand up;checkBox;0
+4105<s>Blocks static crack;checkBox;0
+4106<s>Flat blocks;checkBox;0
+4107<s>Arrows blocks items;checkBox;0
+4108<s>Lines blocks move;checkBox;0
+4109<s>Nether portal with dirt;checkBox;0
+4110<s>Fast break creative;checkBox;0
+4111<s>Get ids players on head;checkBox;0
+4112<s>Inventory special blocks;checkBox;0
+4113<s>Permissions destroy blocks;checkBox;0
+4200<s>Barriere;checkBox;0
+4201<s>Eggs dragon;checkBox;0
+4202<s>Reapeting command block;checkBox;0
+4203<s>Green command block;checkBox;0
+4204<s>Command block;checkBox;0
+4205<s>Default mc;checkBox;0
+4206<s>Magma mc;checkBox;0
+4207<s>Ender gateway;checkBox;0
+4208<s>Daimond ore;checkBox;0
+4209<s>Sign mc;checkBox;0
+4300<s>Spawn dragon eggs;checkBox;0
+4301<s>Spawn whiter eggs;checkBox;0
+4302<s>Spawn bunny killer eggs;checkBox;0
+4303<s>Spawn giant eggs;checkBox;0
+4304<s>Spawn iron golem eggs;checkBox;0
+4305<s>Spawn snowball eggs;checkBox;0
+4306<s>Spawn armor stand eggs;checkBox;0
+4500<s>Xp levelv2;trackBar;0
+4501<s>Fps values;trackBar;0
+4502<s>Time speed;trackBar;0
+4503<s>Timecycle;trackBar;0
+4504<s>Timecycle v2;trackBar;0
+4505<s>World dimension;trackBar;0
+4506<s>Nether dimension;trackBar;0
+4507<s>The end dimension;trackBar;0
+4600<s>Sensibility fast;checkBox;0
+4601<s>Sensibility max;checkBox;0
+4602<s>Gamma to max;checkBox;0
+4603<s>Switch game to offline;checkBox;0
+4604<s>Survival in lobby;checkBox;0
+4605<s>Split screen;checkBox;0
+4606<s>Stop chunks load;checkBox;0
+4607<s>Optimize chunks load;checkBox;0
+4700<s>Kick to xmb hud;checkBox;0
+4701<s>Return to xmb;checkBox;0
+4702<s>Destroy game;checkBox;0
+4703<s>Corrupt world;checkBox;0
+4704<s>Freeze the world with egg;checkBox;0
+4800<s>Lobby messages;checkBox;0
+4801<s>Lobby messages spam;checkBox;0
+4802<s>Funny screen;checkBox;0
+4803<s>Small graphic;checkBox;0
+4804<s>Shockwave effect;checkBox;0
+4900<s>Big particles;checkBox;0
+4901<s>Break particles fly;checkBox;0
+4902<s>Broken textures;checkBox;0
+4903<s>Freeze particles;checkBox;0
+4904<s>Remove particles;checkBox;0
+4905<s>Particles damage no stop;checkBox;0
+4906<s>Particles fly v2;checkBox;0
+4907<s>Particles tornado;checkBox;0
+4908<s>Running particles spectral;checkBox;0
+4909<s>Running particles weird;checkBox;0
+5000<s>Drift boat;checkBox;0
+5001<s>Funny sound;checkBox;0
+5002<s>Genereate bubble in water;checkBox;0
+5003<s>Gravity moon;checkBox;0
+5004<s>Gun items;checkBox;0
+5005<s>Remove some fps;checkBox;0
+5006<s>Max players for small maps;checkBox;0
+5007<s>Better time;checkBox;0
+5008<s>Game gamemode locked;checkBox;0
+5009<s>Game no items;checkBox;0
+5010<s>Game speed static;checkBox;0
+5011<s>Allow portal in mini games;checkBox;0
+5012<s>Apocalipse;checkBox;0
+5013<s>Big gameplay;checkBox;0
+5014<s>Bypass creative in trumble;checkBox;0
+5015<s>Air to water;checkBox;0
+5016<s>Stop animations;checkBox;0
+5200<s>Name changer;comboBox;0
+5202<s>Name changer;button;0
+5205<s>Namev2;button;0
+5208<s>Name glitch;button;0
+5211<s>Name colored;button;0
+5214<s>Name line;button;0
+5301<s>Playing alone;button;0
+5304<s>Playing multi;button;0
+5307<s>Player join;button;0
+5310<s>Player leave;button;0
+5600<s>Knockback;trackBar;0
+5601<s>Arrow arch;trackBar;0
+5602<s>Arrow gravity;trackBar;0
+5700<s>Entity god mode;checkBox;0
+5701<s>God mode;checkBox;1
+5702<s>God mode v3;checkBox;1
+5703<s>Demi god;checkBox;1
+5800<s>Anti knockback;checkBox;0
+5801<s>Knockback;checkBox;0
+5802<s>Reverse knockback;checkBox;0
+5803<s>Instant damage;checkBox;0
+5804<s>Instant kill;checkBox;0
+5805<s>Instant kill all;checkBox;0
+5806<s>Instant kill in fire;checkBox;0
+5807<s>No damage hit;checkBox;0
+5808<s>No delay hit damage;checkBox;0
+5809<s>Op mode;checkBox;0
+5810<s>Op sword;checkBox;0
+5900<s>Stop arrows;checkBox;0
+5901<s>Arrows directions;checkBox;0
+5902<s>Arrows remove;checkBox;0
+5903<s>Fast bow;checkBox;0
+5904<s>Spectral arrows with bow;checkBox;0
+5905<s>Stop bow;checkBox;0
+6100<s>Infinite block;checkBox;0
+6101<s>Infinite pick up;checkBox;0
+6102<s>Bypass max items;checkBox;0
+6103<s>Max pickup items;checkBox;0
+6104<s>Infinite food;checkBox;0
+6105<s>Creative slot;checkBox;0
+6106<s>Creative slot v2;checkBox;0
+6107<s>Stop block falling;checkBox;0
+6200<s>Totem float health;checkBox;0
+6201<s>Trident riptide to max;checkBox;0
+6202<s>Stop fall gravity;checkBox;0
+6203<s>Cant grab items;checkBox;0
+6204<s>Cant grab items v2;checkBox;0
+6205<s>Cant grab items v3;checkBox;0
+6206<s>Disable totem of undying;checkBox;0
+6207<s>Fishing rod cant be removed;checkBox;0
+6208<s>Fishing rod no gravity;checkBox;0
+6209<s>Ignioring pressure plate;checkBox;0
+6210<s>Potions gravity fly;checkBox;0
+6211<s>Potions no gravity;checkBox;0
+6212<s>Lead cant be removed;checkBox;0
+6213<s>No web hax;checkBox;0
+6214<s>Allow all items on head;checkBox;0
+6400<s>Reach values;trackBar;0
+6401<s>Mob speed;trackBar;0
+6402<s>Health;trackBar;0
+6403<s>Entity vision;trackBar;0
+6404<s>Entity visual;trackBar;0
+6405<s>No shadow entity;trackBar;0
+6500<s>Auto regenerate health;checkBox;1
+6501<s>Remove fall damage;checkBox;0
+6502<s>Bypass kill all;checkBox;0
+6503<s>Dead players remains standing;checkBox;0
+6504<s>Disable mobs;checkBox;0
+6505<s>Freeze all entity;checkBox;0
+6506<s>Disable killed out of world;checkBox;0
+6507<s>Disable respawn;checkBox;0
+6508<s>Kill dont disappear entity;checkBox;0
+6509<s>Mobs ignore me;checkBox;0
+6510<s>Disable 3rd person view;checkBox;0
+6511<s>Glitched dead mobs;checkBox;0
+6512<s>Wolf remove water;checkBox;0
+6513<s>Wolf turn head;checkBox;0
+6600<s>All players cant run;checkBox;0
+6601<s>All players cant run v2;checkBox;0
+6602<s>All players fast mine;checkBox;0
+6603<s>All players fast mine v2;checkBox;0
+6604<s>All players fast speed;checkBox;0
+6605<s>All players fast speed v2;checkBox;0
+6606<s>All players freeze ps3;checkBox;0
+6607<s>All players left hand;checkBox;0
+6608<s>All players set in fire;checkBox;0
+6609<s>All players spam zoom;checkBox;0
+6610<s>All players suffocate;checkBox;0
+6611<s>All players take damage;checkBox;0
+6612<s>All world light white;checkBox;0
+6701<s>Max xp level;checkBox;0
+6702<s>Remove level xp;checkBox;0
+6703<s>Enable all enchantement;checkBox;0
+6801<s>Xp level;button;0
+6802<s>Xp level;btn;0
+7000<s>Creeper damage;trackBar;0
+7001<s>Tnt damage;trackBar;0
+7100<s>Creeper cant destroy blocks;checkBox;0
+7101<s>Creeper charged disabled;checkBox;0
+7102<s>Creeper explode medium;checkBox;0
+7103<s>Creeper extrem explosion;checkBox;0
+7104<s>Creeper instant explode;checkBox;0
+7105<s>Creeper medium explosion;checkBox;0
+7106<s>Creeper nuclear explosion;checkBox;0
+7107<s>Creeper small explosion;checkBox;0
+7200<s>Tnt cant destroy blocks;checkBox;0
+7201<s>Tnt cant explode blocks;checkBox;0
+7202<s>Tnt can destroy blocks in mini games;checkBox;0
+7203<s>Tnt explode radius small;checkBox;0
+7204<s>Tnt explode sound off;checkBox;0
+7205<s>Tnt fly in air when enabled;checkBox;0
+7206<s>Tnt go down;checkBox;0
+7207<s>Tnt instant explode;checkBox;0
+7208<s>Tnt make more particles;checkBox;0
+7209<s>Tnt small particles;checkBox;0
+7300<s>Dark storm;checkBox;0
+7301<s>Best sky;checkBox;0
+7302<s>Blink sky;checkBox;0
+7303<s>Flash sky with particles;checkBox;0
+7304<s>Lighting bolt;checkBox;0
+7305<s>Lightning bolt v2;checkBox;0
+7306<s>Rain to snow;checkBox;0
+7400<s>Infinite breath;checkBox;1
+7401<s>Boat stop working;checkBox;0
+7402<s>Burn in water;checkBox;0
+7403<s>Infinite oxygen in water;checkBox;0
+7404<s>Water jump;checkBox;0
+7405<s>Items water to four 4j debug;checkBox;0
+7406<s>Items water to ;checkBox;0
+7407<s>Items water to diamond;checkBox;0
+7408<s>Items water to command block;checkBox;0
+7409<s>Items water to spawn eggs;checkBox;0
+7410<s>Items water to diamond sword;checkBox;0
+7411<s>Stop water flow;checkBox;0
+7500<s>Auto save;checkBox;0
+7501<s>Disable portals;checkBox;0
+7502<s>Get spectator gamemode;checkBox;1
+7503<s>Survival slot;checkBox;0
+7504<s>Nether portal with stone;checkBox;0
+7505<s>Add fake clone controller;checkBox;0
+7506<s>Last players joined the world;checkBox;0
+7507<s>Get your ping;checkBox;0
